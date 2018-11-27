@@ -2,22 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="51d4cd41-c5bc-4378-9209-642042a528ed" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/sass/_about.sass" beforeDir="false" afterPath="$PROJECT_DIR$/app/sass/_about.sass" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/sass/_contact.sass" beforeDir="false" afterPath="$PROJECT_DIR$/app/sass/_contact.sass" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/sass/_footer1.sass" beforeDir="false" afterPath="$PROJECT_DIR$/app/sass/_footer.sass" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/sass/_funfact.sass" beforeDir="false" afterPath="$PROJECT_DIR$/app/sass/_funfact.sass" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/sass/_header.sass" beforeDir="false" afterPath="$PROJECT_DIR$/app/sass/_header.sass" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/sass/_hero-area.sass" beforeDir="false" afterPath="$PROJECT_DIR$/app/sass/_hero-area.sass" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/sass/_portfolio.sass" beforeDir="false" afterPath="$PROJECT_DIR$/app/sass/_portfolio.sass" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/sass/_service.sass" beforeDir="false" afterPath="$PROJECT_DIR$/app/sass/_service.sass" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/sass/_testomonials.sass" beforeDir="false" afterPath="$PROJECT_DIR$/app/sass/_testomonials.sass" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/sass/_variables.sass" beforeDir="false" afterPath="$PROJECT_DIR$/app/sass/_variables.sass" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/sass/main.sass" beforeDir="false" afterPath="$PROJECT_DIR$/app/sass/main.sass" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/dist/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/css/reset.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitnore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitnore" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/sass_geekhub/node_modules/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -105,13 +90,22 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/app/sass/_testomonials.sass">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="522">
-                  <caret line="29" column="17" lean-forward="true" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
+                <state relative-caret-position="506">
+                  <caret line="32" column="4" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="4" />
                 </state>
               </provider>
             </entry>
           </file>
           <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/.gitnore">
+              <provider selected="true" editor-type-id="text-editor">
+                <state>
+                  <caret column="6" selection-start-column="6" selection-end-column="6" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/app/sass/_variables.sass">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="126">
@@ -145,6 +139,7 @@
         <option value="$PROJECT_DIR$/app/index.html" />
         <option value="$PROJECT_DIR$/app/sass/_testomonials.sass" />
         <option value="$PROJECT_DIR$/app/sass/_variables.sass" />
+        <option value="$PROJECT_DIR$/.gitnore" />
       </list>
     </option>
   </component>
@@ -229,18 +224,18 @@
       <option name="presentableId" value="Default" />
       <updated>1543304750804</updated>
       <workItem from="1543304752255" duration="1394000" />
-      <workItem from="1543351955428" duration="4744000" />
+      <workItem from="1543351955428" duration="4988000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6138000" />
+    <option name="totallyTimeSpent" value="6382000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="32" width="1853" height="1048" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2531998" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2531998" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Gulp" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -254,7 +249,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32925472" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32925472" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -366,17 +361,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/sass/_testomonials.sass">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="522">
-          <caret line="29" column="17" lean-forward="true" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/sass/_variables.sass">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
           <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/_testomonials.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="32" column="4" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitnore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" selection-start-column="6" selection-end-column="6" />
         </state>
       </provider>
     </entry>
