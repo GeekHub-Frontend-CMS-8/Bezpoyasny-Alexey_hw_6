@@ -1,0 +1,68 @@
+.portfolio
+  background-color: #f6f6f6
+
+.portfolio__container
+  text-align: center
+
+.portfolio__img-container
+  display: flex
+  flex-wrap: wrap
+  justify-content: space-between
+  margin-top: 45px
+
+
+.portfolio__img-item
+  position: relative
+  margin-top: 30px
+  width: 31%
+
+.portfolio__img
+  display: block
+  width: 100%
+  height: auto
+
+.portfolio__more
+  position: absolute
+  top: 0
+  left: 0
+  width: 100%
+  height: 100%
+  display: inline-flex
+  justify-content: center
+  align-items: center
+  opacity: 0
+  transition: 0.5s
+  &:hover
+    opacity: 1
+    cursor: pointer
+    box-shadow: 0 0 37px 12px rgba(0, 0, 0, 0.15)
+
+.arrow
+  max-width: 55px
+  width: 100%
+  line-height: 55px
+  background-color: #fff
+  text-align: center
+  color: #000
+
+.btn-portfolio
+  max-width: 190px
+  width: 100%
+  height: 50px
+  margin-top: 30px
+  font-size: $small-font-size
+  color: $primary-text-color
+  font-weight: 500
+  transition: 0.5s
+  background-color: #fff
+  border: none
+  box-shadow: 0 18px 27px 2px rgba(0, 0, 0, 0.1)
+  &:hover
+    background: transparent
+    cursor: pointer
+
+
+
+
+
+
